@@ -68,7 +68,8 @@ TARGET_SCREEN_WIDTH := 1080
 PRODUCT_PACKAGES += \
     camera.bacon \
     libboringssl-compat \
-    libstlport
+    libstlport \
+    libshim_camera
 
 # Charger
 PRODUCT_PACKAGES += \
