@@ -261,4 +261,4 @@ PRODUCT_PACKAGES += \
     OnePlusDoze
 
 # Inherit from oppo-common
-#$(call inherit-product, device/oppo/common/common.mk)
+$(call inherit-product, device/oppo/common/common.mk)
