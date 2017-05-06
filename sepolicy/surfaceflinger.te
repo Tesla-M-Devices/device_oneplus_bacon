@@ -1,0 +1,2 @@
+# secure display
+allow surfaceflinger self:capability { sys_nice };
